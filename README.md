@@ -48,7 +48,7 @@ function bubbleSort(array) {
 
 ### Структура таблиц
 
-![diagram](https://ibb.co/f067MVF)
+![diagram](https://i.ibb.co/NYDzxgC/Screenshot-from-2022-07-02-10-49-39.png)
 
 ```sql
 SELECT `products`.*
